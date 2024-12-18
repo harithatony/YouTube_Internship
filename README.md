@@ -1,6 +1,16 @@
 # YouTube Video Bookmarking App
 
 This is a React-based web application that allows users to browse popular YouTube videos, view video details, and bookmark their favorite videos for later access. The app utilizes the YouTube API to fetch trending videos, and it includes bookmarking functionality for easy management of saved videos.
+## Deployment
+
+The application has been deployed, and you can access it using the following link:
+
+[Deployed Application](https://you-tube-internship.vercel.app/)
+
+### Important Note
+
+This application requires a valid YouTube Data API key to function correctly. Since API keys cannot be uploaded publicly for security reasons, the application will only work after you set up your own API key.
+
 
 ## Features
 

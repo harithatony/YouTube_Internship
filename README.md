@@ -38,33 +38,33 @@ To get started with this project, follow these steps:
 ### 4.Set Up YouTube API Key
 To fetch data from the YouTube Data API, you need a valid YouTube API key.
 
-*Steps to obtain an API key:
-*Go to the Google Developer Console.
-*Create a new project.
-*Enable the YouTube Data API v3 for your project.
-*Generate an API key.
-*Add the API Key to the Project
-*Replace REPLACE_YOUR_API_KEY in .env file with your API key:
+- Steps to obtain an API key:
+-Go to the Google Developer Console.
+-Create a new project.
+-Enable the YouTube Data API v3 for your project.
+-Generate an API key.
+-Add the API Key to the Project
+-Replace REPLACE_YOUR_API_KEY in .env file with your API key:
 
 ### 5. Run the Application
 Start the development server:
 
-```yarn start```
+## yarn start
 
 
 
 ### Dependencies
-react
-react-router-dom
-axios
-react-icons
-moment
-yarn
+-react
+-react-router-dom
+-axios
+-react-icons
+-moment
+-yarn
 
 
 
 ### Acknowledgments
-YouTube Data API
-React
-Moment.js
-React Icons
+-YouTube Data API
+-React
+-Moment.js
+-React Icons

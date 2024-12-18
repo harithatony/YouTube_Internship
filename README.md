@@ -26,9 +26,9 @@ To get started with this project, follow these steps:
 
 ### 1. Clone the Repository
 
-``` https://github.com/harithatony/YouTube_Internship.git
+``` https://github.com/harithatony/YouTube_Internship.git```
 
-### 2. Navigate to the Project Directory
+## 2. Navigate to the Project Directory
 
 ``` cd youtube
 

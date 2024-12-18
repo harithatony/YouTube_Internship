@@ -49,6 +49,7 @@ yarn install
 yarn add axios
 yarn add moment
 yarn add react-icons
+
 ### 4.Set Up YouTube API Key
 To fetch data from the YouTube Data API, you need a valid YouTube API key.
 
@@ -63,22 +64,22 @@ To fetch data from the YouTube Data API, you need a valid YouTube API key.
 ### 5. Run the Application
 Start the development server:
 
-```yarn start```
+```yarn start
 
 
 
 ## Dependencies
--react
--react-router-dom
--axios
--react-icons
--moment
--yarn
+- react
+- react-router-dom
+- axios
+- react-icons
+- moment
+- yarn
 
 
 
 ## Acknowledgments
--YouTube Data API
--React
--Moment.js
--React Icons
+- YouTube Data API
+- React
+- Moment.js
+- React Icons

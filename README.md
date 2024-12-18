@@ -44,10 +44,11 @@ To get started with this project, follow these steps:
 
 ### 3.Install Dependencies Using Yarn
 
-```yarn install
+```bash
+yarn install
 yarn add axios
 yarn add moment
-yarn add react-icons```
+yarn add react-icons
 ### 4.Set Up YouTube API Key
 To fetch data from the YouTube Data API, you need a valid YouTube API key.
 

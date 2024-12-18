@@ -28,13 +28,13 @@ To get started with this project, follow these steps:
 
 ``` https://github.com/harithatony/YouTube_Internship.git```
 
-## 2. Navigate to the Project Directory
+### 2. Navigate to the Project Directory
 
-``` cd youtube
+``` cd youtube```
 
 ### 3.Install Dependencies Using Yarn
 
-```yarn install
+```yarn install```
 ### 4.Set Up YouTube API Key
 To fetch data from the YouTube Data API, you need a valid YouTube API key.
 
@@ -49,7 +49,7 @@ To fetch data from the YouTube Data API, you need a valid YouTube API key.
 ### 5. Run the Application
 Start the development server:
 
-```yarn start
+```yarn start```
 
 
 

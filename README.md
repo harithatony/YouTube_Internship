@@ -44,20 +44,20 @@ To get started with this project, follow these steps:
 
 ### 3.Install Dependencies Using Yarn
 
-```yarn install```
-```yarn add axios```
-```yarn add moment```
-```yarn add react-icons```
+```yarn install
+yarn add axios
+yarn add moment
+yarn add react-icons```
 ### 4.Set Up YouTube API Key
 To fetch data from the YouTube Data API, you need a valid YouTube API key.
 
 - Steps to obtain an API key:
--Go to the Google Developer Console.
--Create a new project.
--Enable the YouTube Data API v3 for your project.
--Generate an API key.
--Add the API Key to the Project
--Replace REPLACE_YOUR_API_KEY in .env file with your API key:
+1 Go to the Google Developer Console.
+2 Create a new project.
+3 Enable the YouTube Data API v3 for your project.
+4 Generate an API key.
+5 Add the API Key to the Project
+6 Replace REPLACE_YOUR_API_KEY in .env file with your API key
 
 ### 5. Run the Application
 Start the development server:
@@ -66,7 +66,7 @@ Start the development server:
 
 
 
-### Dependencies
+## Dependencies
 -react
 -react-router-dom
 -axios
@@ -76,7 +76,7 @@ Start the development server:
 
 
 
-### Acknowledgments
+## Acknowledgments
 -YouTube Data API
 -React
 -Moment.js
